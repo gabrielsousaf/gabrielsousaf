@@ -17,15 +17,16 @@
 
 
 <h2 align="center"> 🖥&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;🖥</h2>
-<img align="right" src="https://media.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif" width="340px" height="250px" alt="anime chilling"> <br> <br>
+<img align="right" src="https://media.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif" width="250px" height="210px" alt="anime chilling"> 
+
 <ul align="left">
 	<li>📗 Portfólio: https://lnkd.in/dQiZ_A-S 📗</li><br>
 	<li>📗 Site de previsão do tempo: https://lnkd.in/dC6MzfP4 📗</li><br>
 	<li>📗 Formulário de validação: https://lnkd.in/d-XyHZSf 📗</li><br>
 </ul>
+<br>
+<br>
 
-<br>
-<br>
 
   
   
