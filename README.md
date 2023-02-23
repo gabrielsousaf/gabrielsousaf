@@ -49,7 +49,7 @@
   <a href = "mailto:gabriell.furtado2002@gmail.com" alt="e-mail">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/e-mail.svg" target="_blank">
   </a> 
-  <a href="https://gabrielsousaf.github.io/portifolio-version-1/" alt="Portfólio" target="_blank">
+  <a href="https://gabrielsousaf.github.io/Portifolio/" alt="Portfólio" target="_blank">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/portfolio.svg" alt="Portfólio">
   </a> 
   <a href="https://www.linkedin.com/in/gabriel-furtado-souza/" alt="Linkedin" target="_blank">
@@ -58,7 +58,7 @@
   <a href="https://api.whatsapp.com/send?phone=5588993383240" alt="WhatsApp" target="_blank">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/whatsapp.svg" alt="Whatsapp">
   </a>
-  <a href="https://www.instagram.com/gabriel_furtado2002/" alt="Instagram" target="_blank">
+  <a href="https://www.instagram.com/gabriel.dev.tech/" alt="Instagram" target="_blank">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/instagram.svg" alt="Instagram">
   </a>
 </p>
