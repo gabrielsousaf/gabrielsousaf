@@ -3,7 +3,7 @@
 <h2 align="center">Desenvolvedor Front-End</h2>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="360px" height="250px" alt="anime chilling">
+<img align="right" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif" width="360px" height="250px" alt="anime chilling">
 
 <ul align="left">
     <li>🤩️ Olá, me chamo Gabriel Furtado, tenho 20 anos e sou de Sobral-CE. 🤩️</li><br>
@@ -41,7 +41,7 @@
   
   
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏｓ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="https://i.imgur.com/O3Bxs16.gif" alt="anime coding">
+<img align="left" width="220px" height="180px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://gabrielsousaf.github.io/curriculo-online/" alt="currículo">
