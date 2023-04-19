@@ -44,7 +44,7 @@
 <img align="left" width="220px" height="180px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://gabrielsousaf.github.io/curriculo-online/" alt="currículo">
+  <a href="https://drive.google.com/file/d/1d2oCfq1m1dSK_rLk--BEaRi4H0ILqhJq/view" alt="currículo">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/curriculo.svg" alt="resume">
   </a>
   <a href = "mailto:gabriell.furtado2002@gmail.com" alt="e-mail">
