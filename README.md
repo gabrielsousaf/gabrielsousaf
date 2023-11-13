@@ -9,7 +9,7 @@
     <li>🤩️ Olá, me chamo Gabriel Furtado, tenho 20 anos e sou de Sobral-CE. 🤩️</li><br>
     <li>🚀 Busco minha primeira oportunidade no mercado de trabalho na aréa de desenvolvimento Front-End. 🚀</li><br>
     <li>💻 Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera . Estudo programação através do curso Programador BR e por vídeos e documentações 💻</li><br>
-    <li>📚 Atualmente estou aprendendo Next.js 📚</li><br>
+    <li>📚 Atualmente estou aprendendo TypeScript 📚</li><br>
     <li>🔮 Meu objetivo é me tornar desenvolvedor Fullstack Web e Mobile 🔮</li><br>
     <li>🖥 Pretendo estudar React Native e outros frameworks e bibliotecas posteriormente🖥</li>
 </ul>
@@ -32,6 +32,7 @@
 	  <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	  <img src = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=whit"/>
 	  <img src = "https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+	  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   </div>
 <br>
 <br>
