@@ -6,7 +6,7 @@
 <img align="right" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif" width="360px" height="250px" alt="anime chilling">
 
 <ul align="left">
-    <li>🤩️ Olá, me chamo Gabriel Furtado, tenho 20 anos e sou de Sobral-CE. 🤩️</li><br>
+    <li>🤩️ Olá, me chamo Gabriel Furtado, tenho 21 anos e sou de Sobral-CE. 🤩️</li><br>
     <li>🚀 Busco minha primeira oportunidade no mercado de trabalho na aréa de desenvolvimento Front-End. 🚀</li><br>
     <li>💻 Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera . Estudo programação através do curso Programador BR e por vídeos e documentações 💻</li><br>
     <li>📚 Atualmente estou aprendendo TypeScript 📚</li><br>
