@@ -79,13 +79,13 @@
 <div align="center">
 
 <a href="https://github.com/GabrielSF2022" align="left">
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsousaf&layout=compact&theme=tokyonight" />
+ <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsousaf&layout=compact&theme=tokyonight" />
 </a>
 
 
 <a href="http://www.github.com/gabrielsousaf">
 	
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielsousaf&show_icons=true&theme=tokyonight" />
+ <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielsousaf&show_icons=true&theme=tokyonight" />
  </a>
  </div>
  <br>
