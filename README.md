@@ -47,13 +47,13 @@
 <img align="left" width="220px" height="180px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1lwS14C2NgJQMdaLWb7rIh8uCiHoft8-k/view?usp=sharing" alt="currículo">
+  <a href="https://drive.google.com/file/d/1vT_i2ArchXdab4uJW2R7yWunjEfaQ9yJ/view" alt="currículo">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/curriculo.svg" alt="resume">
   </a>
   <a href = "mailto:gabriell.furtado2002@gmail.com" alt="e-mail">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/e-mail.svg" target="_blank">
   </a> 
-  <a href="https://gabrielsousaf.github.io/Portfolio/" alt="Portfólio" target="_blank">
+  <a href="https://portfolio-gabriel-furtado.vercel.app/" alt="Portfólio" target="_blank">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/portfolio.svg" alt="Portfólio">
   </a> 
   <a href="https://www.linkedin.com/in/gabriel-furtado-souza/" alt="Linkedin" target="_blank">
