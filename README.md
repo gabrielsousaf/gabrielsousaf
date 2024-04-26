@@ -49,7 +49,7 @@
 <img align="left" width="220px" height="180px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1vT_i2ArchXdab4uJW2R7yWunjEfaQ9yJ/view" alt="currículo">
+  <a href="https://drive.google.com/file/d/1JobNqtQ2zYMtAp7PTsltzerLhpMJMRNT/view?usp=sharing" alt="currículo">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/curriculo.svg" alt="resume">
   </a>
   <a href = "mailto:gabriell.furtado2002@gmail.com" alt="e-mail">
