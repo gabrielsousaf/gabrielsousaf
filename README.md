@@ -1,15 +1,15 @@
   
   <h1 align="center"> Olá 👋 Meu nome é Gabriel Furtado </h1>
-<h2 align="center">Desenvolvedor Front-End</h2>
+<h2 align="center">Desenvolvedor Full Stack</h2>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <img align="right" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif" width="360px" height="250px" alt="anime chilling">
 
 <ul align="left">
     <li>🤩️ Olá, me chamo Gabriel Furtado, tenho 21 anos e sou de Sobral-CE. 🤩️</li><br>
-    <li>🚀 Busco minha primeira oportunidade no mercado de trabalho na aréa de desenvolvimento Front-End. 🚀</li><br>
-    <li>💻 Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera . Estudo programação através do curso Programador BR e por vídeos e documentações 💻</li><br>
-    <li>📚 Atualmente estou aprendendo Next.Js 📚</li><br>
+    <li>🚀 Busco minha primeira oportunidade no mercado de trabalho na aréa de desenvolvimento Full Stack. 🚀</li><br>
+    <li>💻 Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera . Estudo programação através de cursos e documentações 💻</li><br>
+    <li>📚 Atualmente estou aprendendo AngularJS 📚</li><br>
     <li>🔮 Meu objetivo é me tornar desenvolvedor Fullstack Web e Mobile 🔮</li><br>
     <li>🖥 Pretendo estudar React Native e outros frameworks e bibliotecas posteriormente🖥</li>
 </ul>
