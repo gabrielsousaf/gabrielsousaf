@@ -53,7 +53,7 @@
   <a href = "mailto:gabriell.furtado2002@gmail.com" alt="e-mail">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/e-mail.svg" target="_blank">
   </a> 
-  <a href="https://portfolio-gabriel-furtado.vercel.app/" alt="Portfólio" target="_blank">
+  <a href="https://www.gabrielfurtado.tech/" alt="Portfólio" target="_blank">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/portfolio.svg" alt="Portfólio">
   </a> 
   <a href="https://www.linkedin.com/in/gabriel-furtado-souza/" alt="Linkedin" target="_blank">
