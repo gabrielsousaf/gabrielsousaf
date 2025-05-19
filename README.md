@@ -6,7 +6,7 @@
 <img align="right" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif" width="360px" height="250px" alt="anime chilling">
 
 <ul align="left">
-    <li>🤩️ Olá, me chamo Gabriel Furtado, tenho 21 anos e sou de Sobral-CE. 🤩️</li><br>
+    <li>🤩️ Olá, me chamo Gabriel Furtado, tenho 22 anos e sou de Sobral-CE. 🤩️</li><br>
     <li>🚀 Busco minha primeira oportunidade no mercado de trabalho na aréa de desenvolvimento Full Stack. 🚀</li><br>
     <li>💻 Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera. Estudo programação através de cursos e documentações 💻</li><br>
     <li>📚 Atualmente estou aprendendo AngularJS 📚</li><br>
@@ -47,7 +47,7 @@
 <img align="left" width="220px" height="180px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1JobNqtQ2zYMtAp7PTsltzerLhpMJMRNT/view?usp=sharing" alt="currículo">
+  <a href="https://drive.google.com/file/d/1VC0jJBkfmR0dwnts288OyHClFsEc4O1V/view?usp=sharing" alt="currículo">
     <img src="https://github.com/desenvjonathan/desenvjonathan/blob/master/images/button/curriculo.svg" alt="resume">
   </a>
   <a href = "mailto:gabriell.furtado2002@gmail.com" alt="e-mail">
