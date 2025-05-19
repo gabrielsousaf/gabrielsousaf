@@ -10,7 +10,7 @@
     <li>🚀 Busco minha primeira oportunidade no mercado de trabalho na aréa de desenvolvimento Full Stack. 🚀</li><br>
     <li>💻 Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera. Estudo programação através de cursos e documentações 💻</li><br>
     <li>📚 Atualmente estou aprendendo AngularJS 📚</li><br>
-    <li>🔮 Meu objetivo é me tornar desenvolvedor Fullstack Web e Mobile 🔮</li><br>
+    <li>🔮 Meu objetivo é me tornar desenvolvedor FullStack Web e Mobile 🔮</li><br>
     <li>🖥 Pretendo estudar React Native e outros frameworks e bibliotecas posteriormente🖥</li>
 </ul>
 <br>
